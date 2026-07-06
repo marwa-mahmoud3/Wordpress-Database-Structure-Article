@@ -38,8 +38,15 @@ You can read the full formatted article on the official website here:
 
 ---
 
-### **Contact & Professional Links**
-**Marwa Mahmoud Mohamed**
-* **Email**: marwa.sw.eng@outlook.com
-* **LinkedIn**: [marwa-mahmoud123](https://www.linkedin.com/in/marwa-mahmoud123)
-* **Portfolio**: [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
+## 👤 About the Developer
+
+**Name:** Marwa Mahmoud El-Khatib
+
+**Email:** [marwa.m.elkhatib@outlook.com](mailto:marwa.m.elkhatib@outlook.com)
+
+**Connect with me:**
+
+- LinkedIn: [marwa-mahmoud-elkhatib](https://www.linkedin.com/in/marwa-mahmoud-elkhatib)
+- Portfolio: [marwa-mahmoud-elkhatib.vercel.app](https://marwa-mahmoud-elkhatib.vercel.app/)
+
+---
